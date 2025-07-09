@@ -3,7 +3,6 @@ Repositorio de práctica para dominar Apache Spark y PySpark
 
 ## Estructura
 - /notebooks → Notebooks de ejercicios prácticos y casos de uso
-- /scripts → Scripts .ipynb
 - /data → Archivos de datos de entrada
 - /docs → Documentación adicional
 
