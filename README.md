@@ -2,10 +2,10 @@
 Repositorio de práctica para dominar Apache Spark y PySpark
 
 ## Estructura
-- `/notebooks` → Notebooks de ejercicios prácticos y casos de uso
-- `/scripts` → Scripts `.ipynb` 
-- `/data` → Archivos de datos de entrada
-- `/docs` → Documentación adicional
+- /notebooks → Notebooks de ejercicios prácticos y casos de uso
+- /scripts → Scripts .ipynb
+- /data → Archivos de datos de entrada
+- /docs → Documentación adicional
 
 ## Requisitos
 - Python 3.8+
@@ -13,6 +13,6 @@ Repositorio de práctica para dominar Apache Spark y PySpark
 - pyspark
 - Jupyter Notebook
 
-```bash
+bash
 pip install pyspark notebook
 
