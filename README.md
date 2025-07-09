@@ -13,6 +13,3 @@ Repositorio de práctica para dominar Apache Spark y PySpark
 - pyspark
 - Jupyter Notebook
 
-bash
-pip install pyspark notebook
-
